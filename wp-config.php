@@ -1,4 +1,7 @@
 <?php
+
+test
+
 # Database Configuration
 define( 'DB_NAME', 'wp_test5kebbeitno' );
 define( 'DB_USER', 'test5kebbeitno' );

@@ -1,10 +1,8 @@
 <?php
 
-test
-
 # Database Configuration
 define( 'DB_NAME', 'wp_test5kebbeitno' );
-define( 'DB_USER', 'test5kebbeitno' );
+define( 'DB_USER', 'test5kebbeitno1111' );
 define( 'DB_PASSWORD', '2o5xiRgfSUxFYZSFZKJY' );
 define( 'DB_HOST', '127.0.0.1' );
 define( 'DB_HOST_SLAVE', '127.0.0.1' );

@@ -1,0 +1,2702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dreamspace\n"
+"POT-Creation-Date: 2014-04-11 15:16+0200\n"
+"PO-Revision-Date: 2014-04-11 15:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: Goldenworks\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_x;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:22
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:27
+msgid "404 Page Not Found"
+msgstr ""
+
+#: ../404.php:29
+msgid "Oops! The page your were looking for was not found on the server!"
+msgstr ""
+
+#: ../404.php:33
+msgid "Maybe try to use a search ?"
+msgstr ""
+
+#: ../archive.php:41 ../index.php:45 ../search.php:40
+#: ../taxonomy-news_category.php:54 ../taxonomy-portfolio_category.php:104
+#: ../template-blog1.php:89 ../template-blog2.php:87 ../template-blog3.php:87
+#: ../template-blog4.php:90 ../template-blog5.php:101 ../template-blog6.php:97
+#: ../template-news.php:92 ../template-portfolio_1col.php:150
+#: ../template-portfolio_2col.php:158 ../template-portfolio_3col.php:158
+#: ../template-portfolio_3col_grid.php:136
+#: ../template-portfolio_3col_sidebar.php:167
+#: ../template-portfolio_4col.php:158 ../template-portfolio_4col_grid.php:144
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: ../archive.php:42 ../index.php:46 ../search.php:41
+#: ../taxonomy-news_category.php:55 ../taxonomy-portfolio_category.php:105
+#: ../template-blog1.php:90 ../template-blog2.php:88 ../template-blog3.php:88
+#: ../template-blog4.php:91 ../template-blog5.php:102 ../template-blog6.php:98
+#: ../template-news.php:93 ../template-portfolio_1col.php:151
+#: ../template-portfolio_2col.php:159 ../template-portfolio_3col.php:159
+#: ../template-portfolio_3col_grid.php:137
+#: ../template-portfolio_3col_sidebar.php:168
+#: ../template-portfolio_4col.php:159 ../template-portfolio_4col_grid.php:145
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:28
+msgid "Posted on "
+msgstr ""
+
+#: ../comments.php:28
+msgid " at "
+msgstr ""
+
+#: ../comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../comments.php:38
+msgid "reply"
+msgstr ""
+
+#: ../comments.php:39
+msgid "edit"
+msgstr ""
+
+#: ../comments.php:50 ../includes/blog/audio.php:10
+#: ../includes/blog/audio.php:34 ../includes/blog/quote.php:15
+#: ../includes/blog/quote.php:41 ../includes/blog/standard.php:19
+#: ../includes/blog/standard.php:65 ../includes/blog/video.php:21
+#: ../includes/blog/video.php:53 ../includes/blog/columns/standard.php:21
+#: ../includes/blog/portrait/standard.php:21
+#: ../includes/blog/portrait/standard.php:72
+msgid "no comments"
+msgstr ""
+
+#: ../comments.php:50
+msgid "One comment"
+msgstr ""
+
+#: ../comments.php:50 ../includes/blog/audio.php:10
+#: ../includes/blog/audio.php:34 ../includes/blog/quote.php:15
+#: ../includes/blog/quote.php:41 ../includes/blog/standard.php:19
+#: ../includes/blog/standard.php:65 ../includes/blog/video.php:21
+#: ../includes/blog/video.php:53 ../includes/blog/columns/standard.php:21
+#: ../includes/blog/portrait/standard.php:21
+#: ../includes/blog/portrait/standard.php:72
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../comments.php:69
+msgid "One Response"
+msgstr ""
+
+#: ../comments.php:69
+msgid "% Responses"
+msgstr ""
+
+#: ../comments.php:83
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:83
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:84
+msgid "to post a comment."
+msgstr ""
+
+#: ../comments.php:88
+msgid "Join the discussion"
+msgstr ""
+
+#: ../footer.php:28 ../footer.php:74 ../footer.php:90
+msgid ""
+"&copy; 2014 Dreamspace. All rights reserved. Created by <a href=\"http://"
+"goldenworks.eu\">Golden Works</a>."
+msgstr ""
+
+#: ../functions.php:248
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions.php:249
+msgid "Alternate Menu"
+msgstr ""
+
+#: ../functions.php:250
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:350
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../functions.php:352
+msgid ""
+"Main sidebar that appears on the left or right of the theme body content."
+msgstr ""
+
+#: ../functions.php:362
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../functions.php:364
+msgid ""
+"First footer sidebar(from left to right) that appears in the footer section "
+"of the site."
+msgstr ""
+
+#: ../functions.php:372
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../functions.php:374
+msgid ""
+"Second footer sidebar(from left to right) that appears in the footer section "
+"of the site."
+msgstr ""
+
+#: ../functions.php:382
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../functions.php:384
+msgid ""
+"Third footer sidebar(from left to right) that appears in the footer section "
+"of the site."
+msgstr ""
+
+#: ../functions.php:392
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: ../functions.php:394
+msgid ""
+"Fourth footer sidebar(from left to right) that appears in the footer section "
+"of the site."
+msgstr ""
+
+#: ../functions.php:402
+msgid "Coming Soon Footer Sidebar"
+msgstr ""
+
+#: ../functions.php:404
+msgid "Footer sidebar that appears only in the Coming Soon page template."
+msgstr ""
+
+#: ../index.php:22
+msgid "Your latest posts"
+msgstr ""
+
+#: ../single-news.php:38 ../taxonomy-news_category.php:42
+#: ../template-news.php:80
+msgid "posted under "
+msgstr ""
+
+#: ../single-news.php:58 ../single-portfolio.php:42 ../single-portfolio.php:65
+#: ../single.php:37
+msgid "edit post"
+msgstr ""
+
+#: ../template-comingsoon.php:51
+msgid "days"
+msgstr ""
+
+#: ../template-comingsoon.php:56
+msgid "hours"
+msgstr ""
+
+#: ../template-comingsoon.php:61
+msgid "minutes"
+msgstr ""
+
+#: ../template-comingsoon.php:66
+msgid "seconds"
+msgstr ""
+
+#: ../template-portfolio_1col.php:62 ../template-portfolio_2col.php:62
+#: ../template-portfolio_3col.php:62 ../template-portfolio_3col_grid.php:62
+#: ../template-portfolio_3col_sidebar.php:70 ../template-portfolio_4col.php:62
+#: ../template-portfolio_4col_grid.php:62
+msgid "all"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:155
+#: ../framework/tgm-plugin-load.php:139
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:156
+#: ../framework/tgm-plugin-load.php:140
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:157
+#: ../framework/tgm-plugin-load.php:141
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:169
+#: ../framework/tgm-plugin-load.php:153
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:171
+#: ../framework/class-tgm-plugin-activation.php:1840
+#: ../framework/tgm-plugin-load.php:154
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#: ../framework/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#: ../framework/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/tgm-plugin-load.php:142
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/tgm-plugin-load.php:155
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/custom/breadcrumb.php:20
+msgid "Home"
+msgstr ""
+
+#: ../framework/custom/breadcrumb.php:121
+msgid "Author: "
+msgstr ""
+
+#: ../framework/custom/breadcrumb.php:124
+msgid "Tag: "
+msgstr ""
+
+#: ../framework/custom/breadcrumb.php:126
+msgid "404 - Page not Found"
+msgstr ""
+
+#: ../framework/custom/breadcrumb.php:128
+msgid "Search results"
+msgstr ""
+
+#: ../framework/custom/theme-functions.php:93
+msgid "Dreamspace Gravatar"
+msgstr ""
+
+#: ../framework/custom/theme-functions.php:178
+msgid ""
+"This Page / Post is password protected. To view it please enter your "
+"password below:"
+msgstr ""
+
+#: ../framework/custom/theme-functions.php:180
+#: ../framework/ReduxCore/inc/fields/password/field_password.php:55
+msgid "Password"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:8
+#: ../framework/options/options-config.php:644
+msgid "News"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:9
+msgid "News item"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:10
+#: ../framework/custom/custom_posts/custom-portfolio.php:10
+msgid "Add New"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:11
+#: ../framework/custom/custom_posts/custom-portfolio.php:11
+msgid "Add New Post"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:12
+msgid "Edit News Post"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:13
+#: ../framework/custom/custom_posts/custom-portfolio.php:13
+msgid "New Post"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:14
+msgid "All News"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:15
+msgid "View news post"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:16
+msgid "Search news"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:17
+msgid "No news posts found"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:18
+msgid "No news posts found in the Trash"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:44
+#, php-format
+msgid "News post updated. <a href=\"%s\">View news post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:45
+#: ../framework/custom/custom_posts/custom-portfolio.php:45
+msgid "Custom field updated."
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:46
+#: ../framework/custom/custom_posts/custom-portfolio.php:46
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:47
+msgid "News updated."
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:48
+#, php-format
+msgid "News post restored to revision from %s"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:49
+#, php-format
+msgid "News post published. <a href=\"%s\">View news post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:50
+msgid "News saved."
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:51
+#, php-format
+msgid "News submitted. <a target=\"_blank\" href=\"%s\">Preview news post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:52
+#, php-format
+msgid ""
+"News scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview news post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:52
+#: ../framework/custom/custom_posts/custom-portfolio.php:52
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:53
+#, php-format
+msgid ""
+"News draft updated. <a target=\"_blank\" href=\"%s\">Preview news post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:64
+#: ../framework/custom/custom_posts/custom-news.php:74
+msgid "News Categories"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:65
+msgid "News Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:66
+msgid "Search News Categories"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:67
+msgid "All News Categories"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:68
+msgid "Parent News Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:69
+msgid "Parent News Category:"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:70
+msgid "Edit News Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:71
+msgid "Update News Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:72
+msgid "Add New News Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:73
+msgid "New News Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:90
+msgid "News Title"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:91
+#: ../framework/custom/custom_posts/custom-portfolio.php:91
+#: ../framework/options/options-config.php:950
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:135
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:199
+msgid "Description"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:92
+#: ../framework/custom/custom_posts/custom-portfolio.php:92
+msgid "Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-news.php:93
+#: ../framework/custom/custom_posts/custom-portfolio.php:93
+msgid "Thumbnail"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:8
+#: ../framework/options/options-config.php:685
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:9
+msgid "Portfolio item"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:12
+msgid "Edit Portfolio Post"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:14
+msgid "All Portfolio posts"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:15
+msgid "View portfolio post"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:16
+msgid "Search portfolio"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:17
+msgid "No portfolio posts found"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:18
+msgid "No portfolio posts found in the Trash"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:44
+#, php-format
+msgid "Portfolio post updated. <a href=\"%s\">View portfolio post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:47
+msgid "Portfolios updated."
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:48
+#, php-format
+msgid "Portfolio post restored to revision from %s"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:49
+#, php-format
+msgid "Portfolio post published. <a href=\"%s\">View portfolio post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:50
+msgid "Portfolios saved."
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:51
+#, php-format
+msgid ""
+"Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview portfolio "
+"post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:52
+#, php-format
+msgid ""
+"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview portfolio post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:53
+#, php-format
+msgid ""
+"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview portfolio "
+"post</a>"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:64
+#: ../framework/custom/custom_posts/custom-portfolio.php:74
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:65
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:66
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:67
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:68
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:69
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:70
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:71
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:72
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:73
+msgid "New Portfolio Category"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:90
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:128
+msgid "Portfolio post options"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:199
+msgid "Porfolio video link"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:203
+msgid "Do you wish to have sidebar in this post detail ?"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:204
+#: ../framework/custom/custom_posts/custom-portfolio.php:208
+msgid "Yes"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:205
+#: ../framework/custom/custom_posts/custom-portfolio.php:209
+msgid "No"
+msgstr ""
+
+#: ../framework/custom/custom_posts/custom-portfolio.php:207
+msgid "Do you wish to display related works on this particular post ?"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_cat.php:8
+msgid "Displays your categories from a parent category of your choice."
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_cat.php:9
+msgid "GW Custom Categories"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_cat.php:17
+#: ../framework/custom/widgets/widget_twitter.php:17
+msgid "Latest tweets"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_cat.php:31
+msgid ""
+"<p class=\"textwidget\">No child categories that belong to the parent "
+"category you've selected were found.</p>"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_cat.php:60
+#: ../framework/custom/widgets/widget_blog_posts.php:116
+#: ../framework/custom/widgets/widget_brochure.php:77
+#: ../framework/custom/widgets/widget_flickr.php:54
+#: ../framework/custom/widgets/widget_news_cat.php:76
+#: ../framework/custom/widgets/widget_portfolio_posts.php:96
+#: ../framework/custom/widgets/widget_twitter.php:149
+msgid "Title:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_cat.php:63
+#: ../framework/custom/widgets/widget_news_cat.php:79
+msgid "Pull your child categories from:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_posts.php:8
+msgid "Displays your latest posts by a certain category."
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_posts.php:9
+msgid "GW Latest posts"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_posts.php:17
+msgid "Latest blog posts"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_posts.php:81
+msgid "Nothing Found"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_posts.php:82
+#: ../framework/custom/widgets/widget_portfolio_posts.php:55
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_posts.php:119
+msgid "Number of posts:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_blog_posts.php:122
+msgid "Categories:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_brochure.php:8
+msgid "Brocure"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_brochure.php:9
+msgid "GW Brochure"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_brochure.php:27
+msgid "#"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_brochure.php:42
+msgid "Download our PDF brochure"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_brochure.php:79
+msgid "Brochure link:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_brochure.php:82
+msgid "Brochure text:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_flickr.php:9
+msgid "Displays images from your Flickr account."
+msgstr ""
+
+#: ../framework/custom/widgets/widget_flickr.php:10
+msgid "GW Flickr"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_flickr.php:17
+msgid "Photos on flickr"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_flickr.php:57
+msgid "Flickr ID"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_flickr.php:60
+msgid "Number of photos:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_news_cat.php:8
+msgid "Displays your news categories from a parent category of your choice."
+msgstr ""
+
+#: ../framework/custom/widgets/widget_news_cat.php:9
+msgid "GW Custom News Categories"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_news_cat.php:17
+msgid "News categories"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_portfolio_posts.php:8
+msgid ""
+"Displays your latest portfolio entries from the portfolio section of your "
+"choice"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_portfolio_posts.php:9
+msgid "GW Portfolio"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_portfolio_posts.php:17
+msgid "Latest from portfolio"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_portfolio_posts.php:64
+#: ../framework/custom/widgets/widget_portfolio_posts.php:65
+msgid "view more works"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_portfolio_posts.php:99
+msgid "Number of entries:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_portfolio_posts.php:102
+msgid "More button links to:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_twitter.php:9
+msgid "Displays latest tweets from your twitter account."
+msgstr ""
+
+#: ../framework/custom/widgets/widget_twitter.php:10
+msgid "GW Twitter"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_twitter.php:108
+msgid "Click here to read the twitter feed"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_twitter.php:124
+msgid ""
+"Please install the oAuth Twitter Feed for Developers plugin to have a "
+"working twitter widget."
+msgstr ""
+
+#: ../framework/custom/widgets/widget_twitter.php:152
+msgid "Twitter username:"
+msgstr ""
+
+#: ../framework/custom/widgets/widget_twitter.php:155
+msgid "Number of tweets:"
+msgstr ""
+
+#: ../framework/options/options-config.php:111
+msgid "Section via hook"
+msgstr ""
+
+#: ../framework/options/options-config.php:112
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../framework/options/options-config.php:190
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/options/options-config.php:207
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../framework/options/options-config.php:208
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../framework/options/options-config.php:209
+msgid "Tags"
+msgstr ""
+
+#: ../framework/options/options-config.php:214
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../framework/options/options-config.php:214
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../framework/options/options-config.php:240
+msgid "General"
+msgstr ""
+
+#: ../framework/options/options-config.php:248
+msgid "Logo"
+msgstr ""
+
+#: ../framework/options/options-config.php:250
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo."
+msgstr ""
+
+#: ../framework/options/options-config.php:257
+msgid "Favicon"
+msgstr ""
+
+#: ../framework/options/options-config.php:259
+msgid ""
+"Upload a 16px x 16px Png/Gif/ico file that will represent your website's "
+"favicon."
+msgstr ""
+
+#: ../framework/options/options-config.php:266
+msgid "Sidebar position"
+msgstr ""
+
+#: ../framework/options/options-config.php:267
+msgid "Choose between left or right aligned sidebar."
+msgstr ""
+
+#: ../framework/options/options-config.php:279
+msgid "Theme loader"
+msgstr ""
+
+#: ../framework/options/options-config.php:280
+msgid "Enable or disable the theme loader."
+msgstr ""
+
+#: ../framework/options/options-config.php:288
+msgid "Theme breadcrumbs"
+msgstr ""
+
+#: ../framework/options/options-config.php:289
+msgid "Enable or disable the theme breadcrumbs."
+msgstr ""
+
+#: ../framework/options/options-config.php:308
+msgid "Language switcher"
+msgstr ""
+
+#: ../framework/options/options-config.php:309
+msgid "Enable or disable the language switcher in the theme's header."
+msgstr ""
+
+#: ../framework/options/options-config.php:321
+msgid "Styling Options"
+msgstr ""
+
+#: ../framework/options/options-config.php:328
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: ../framework/options/options-config.php:332
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: ../framework/options/options-config.php:340
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework/options/options-config.php:341
+msgid ""
+"Quickly add some CSS to your theme by adding it to this block. This field is "
+"CSS validated!"
+msgstr ""
+
+#: ../framework/options/options-config.php:352
+msgid "Header"
+msgstr ""
+
+#: ../framework/options/options-config.php:361
+msgid "Search input"
+msgstr ""
+
+#: ../framework/options/options-config.php:362
+msgid "Enable or disable the search input in the header."
+msgstr ""
+
+#: ../framework/options/options-config.php:369
+msgid "Social media icons"
+msgstr ""
+
+#: ../framework/options/options-config.php:370
+msgid "Enable or disable the social media icons in the header."
+msgstr ""
+
+#: ../framework/options/options-config.php:377
+msgid "Header content align"
+msgstr ""
+
+#: ../framework/options/options-config.php:378
+msgid ""
+"Choose how the logo and menu are aligned. Note: for center aligned option "
+"the header information is disabled."
+msgstr ""
+
+#: ../framework/options/options-config.php:387
+msgid "Sticky menu"
+msgstr ""
+
+#: ../framework/options/options-config.php:388
+msgid ""
+"Choose whether or not you want the menu to stick to the header on scroll"
+msgstr ""
+
+#: ../framework/options/options-config.php:396
+msgid "Menu type"
+msgstr ""
+
+#: ../framework/options/options-config.php:397
+msgid "Choose what menu type you want to display."
+msgstr ""
+
+#: ../framework/options/options-config.php:405
+msgid "Alternate menu columns"
+msgstr ""
+
+#: ../framework/options/options-config.php:406
+msgid ""
+"Choose how many columns you want your alternate menu to have. Default is 5 "
+"columns."
+msgstr ""
+
+#: ../framework/options/options-config.php:416
+msgid "Top header email"
+msgstr ""
+
+#: ../framework/options/options-config.php:417
+msgid "Insert your email that will appear in your header."
+msgstr ""
+
+#: ../framework/options/options-config.php:419
+msgid "please insert a valid email address"
+msgstr ""
+
+#: ../framework/options/options-config.php:427
+msgid "Phone number"
+msgstr ""
+
+#: ../framework/options/options-config.php:428
+msgid "Insert the phone number that will appear in your theme's header."
+msgstr ""
+
+#: ../framework/options/options-config.php:437
+msgid "Twitter profile"
+msgstr ""
+
+#: ../framework/options/options-config.php:438
+msgid ""
+"Insert the absolute url to your twitter profile that will appear in your "
+"theme's header."
+msgstr ""
+
+#: ../framework/options/options-config.php:446
+msgid "Facebook profile"
+msgstr ""
+
+#: ../framework/options/options-config.php:447
+msgid ""
+"Insert the absolute url to your facebook profile that will appear in your "
+"theme's header."
+msgstr ""
+
+#: ../framework/options/options-config.php:455
+msgid "Dribbble profile"
+msgstr ""
+
+#: ../framework/options/options-config.php:456
+msgid ""
+"Insert the absolute url to your dribbble profile that will appear in your "
+"theme's header."
+msgstr ""
+
+#: ../framework/options/options-config.php:464
+msgid "Linkedin profile"
+msgstr ""
+
+#: ../framework/options/options-config.php:465
+msgid ""
+"Insert the absolute url to your linkedin profile that will appear in your "
+"theme's header."
+msgstr ""
+
+#: ../framework/options/options-config.php:473
+msgid "Rss feed"
+msgstr ""
+
+#: ../framework/options/options-config.php:474
+msgid ""
+"Insert the absolute url to rss feed that will appear in your theme's header."
+msgstr ""
+
+#: ../framework/options/options-config.php:484
+msgid "Footer"
+msgstr ""
+
+#: ../framework/options/options-config.php:495
+msgid "Main Layout"
+msgstr ""
+
+#: ../framework/options/options-config.php:496
+msgid ""
+"Select how many columns you want your footer to have. You can choose between "
+"1, 2, 3, 4 or no column layout."
+msgstr ""
+
+#: ../framework/options/options-config.php:498
+msgid "1 Column"
+msgstr ""
+
+#: ../framework/options/options-config.php:499
+msgid "2 Columns"
+msgstr ""
+
+#: ../framework/options/options-config.php:500
+msgid "3 Columns"
+msgstr ""
+
+#: ../framework/options/options-config.php:501
+msgid "4 Columns"
+msgstr ""
+
+#: ../framework/options/options-config.php:502
+msgid "No Columns"
+msgstr ""
+
+#: ../framework/options/options-config.php:510
+msgid "Footer left line decoration color"
+msgstr ""
+
+#: ../framework/options/options-config.php:511
+msgid ""
+"Pick a background color for the footer left line top decoration (default: "
+"#f82e3c)."
+msgstr ""
+
+#: ../framework/options/options-config.php:520
+msgid "Footer center line decoration color"
+msgstr ""
+
+#: ../framework/options/options-config.php:521
+msgid ""
+"Pick a background color for the footer center line top decoration (default: "
+"#34d693)."
+msgstr ""
+
+#: ../framework/options/options-config.php:530
+msgid "Footer right line decoration color"
+msgstr ""
+
+#: ../framework/options/options-config.php:531
+msgid ""
+"Pick a background color for the footer right line top decoration (default: "
+"#00aced)."
+msgstr ""
+
+#: ../framework/options/options-config.php:540
+msgid "Bottom footer appearance"
+msgstr ""
+
+#: ../framework/options/options-config.php:541
+msgid ""
+"Choose how the bottom footer area will be displayed: with copyright notice "
+"in the left and footer menu in the right or just copyright notice center "
+"aligned."
+msgstr ""
+
+#: ../framework/options/options-config.php:549
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../framework/options/options-config.php:550
+msgid "Paste the text that you want to be displayed in the footer bottom bar."
+msgstr ""
+
+#: ../framework/options/options-config.php:562
+msgid "Blog"
+msgstr ""
+
+#: ../framework/options/options-config.php:571
+msgid "Blog template 1 pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:572
+msgid ""
+"Insert in this field the number of entries per page for blog template 1. "
+"Default is 6."
+msgstr ""
+
+#: ../framework/options/options-config.php:581
+msgid "Blog template 2 pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:582
+msgid ""
+"Insert in this field the number of entries per page for blog template 2"
+"(masonry with 2 columns). Default is 8."
+msgstr ""
+
+#: ../framework/options/options-config.php:591
+msgid "Blog template 3 pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:592
+msgid ""
+"Insert in this field the number of entries per page for blog template 3"
+"(masonry with 3 columns). Default is 12."
+msgstr ""
+
+#: ../framework/options/options-config.php:601
+msgid "Blog template 4 pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:602
+msgid ""
+"Insert in this field the number of entries per page for blog template 4. "
+"Default is 6."
+msgstr ""
+
+#: ../framework/options/options-config.php:611
+msgid "Blog template 5 pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:612
+msgid ""
+"Insert in this field the number of entries per page for blog template 5. "
+"Default is 6."
+msgstr ""
+
+#: ../framework/options/options-config.php:621
+msgid "Blog template 6 pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:622
+msgid ""
+"Insert in this field the number of entries per page for blog template 6. "
+"Default is 4."
+msgstr ""
+
+#: ../framework/options/options-config.php:631
+msgid "Social media icons on posts"
+msgstr ""
+
+#: ../framework/options/options-config.php:632
+msgid "Enable or disable the social media icons in posts detail."
+msgstr ""
+
+#: ../framework/options/options-config.php:653
+msgid "News pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:654
+msgid ""
+"Insert in this field the number of entries per page for news custom posts. "
+"Default is 6."
+msgstr ""
+
+#: ../framework/options/options-config.php:664
+msgid "Footer top bar in the news section"
+msgstr ""
+
+#: ../framework/options/options-config.php:665
+msgid ""
+"Enable or disable the footer top bar for the news section(post listings and "
+"post detail)."
+msgstr ""
+
+#: ../framework/options/options-config.php:673
+msgid "Social media icons on news posts"
+msgstr ""
+
+#: ../framework/options/options-config.php:674
+msgid "Enable or disable the social media icons in news posts detail."
+msgstr ""
+
+#: ../framework/options/options-config.php:695
+msgid "Filter for 1 column portfolio"
+msgstr ""
+
+#: ../framework/options/options-config.php:696
+msgid ""
+"Enable or disable the categories filtering option for classic portfolio "
+"listing on 1 column."
+msgstr ""
+
+#: ../framework/options/options-config.php:703
+msgid "1 column portfolio filter position"
+msgstr ""
+
+#: ../framework/options/options-config.php:704
+#: ../framework/options/options-config.php:724
+#: ../framework/options/options-config.php:744
+#: ../framework/options/options-config.php:764
+#: ../framework/options/options-config.php:785
+#: ../framework/options/options-config.php:806
+msgid "Choose the filter position alignment. Default is left aligned."
+msgstr ""
+
+#: ../framework/options/options-config.php:715
+msgid "Filter for 2 columns classic portfolio"
+msgstr ""
+
+#: ../framework/options/options-config.php:716
+msgid ""
+"Enable or disable the categories filtering option for classic portfolio "
+"listing on 2 columns."
+msgstr ""
+
+#: ../framework/options/options-config.php:723
+msgid "Classic 2 columns portfolio filter position"
+msgstr ""
+
+#: ../framework/options/options-config.php:735
+msgid "Filter for 3 columns classic portfolio"
+msgstr ""
+
+#: ../framework/options/options-config.php:736
+msgid ""
+"Enable or disable the categories filtering option for classic portfolio "
+"listing on 3 columns."
+msgstr ""
+
+#: ../framework/options/options-config.php:743
+msgid "Classic 3 columns portfolio filter position"
+msgstr ""
+
+#: ../framework/options/options-config.php:755
+msgid "Filter for 4 columns classic portfolio"
+msgstr ""
+
+#: ../framework/options/options-config.php:756
+msgid ""
+"Enable or disable the categories filtering option for classic portfolio "
+"listing on 4 columns."
+msgstr ""
+
+#: ../framework/options/options-config.php:763
+msgid "Classic 4 columns portfolio filter position"
+msgstr ""
+
+#: ../framework/options/options-config.php:776
+msgid "Filter for 3 columns grid portfolio"
+msgstr ""
+
+#: ../framework/options/options-config.php:777
+#: ../framework/options/options-config.php:798
+msgid ""
+"Enable or disable the categories filtering option for grid portfolio listing "
+"on 3 columns."
+msgstr ""
+
+#: ../framework/options/options-config.php:784
+msgid "Grid 3 columns portfolio filter position"
+msgstr ""
+
+#: ../framework/options/options-config.php:797
+msgid "Filter for 4 columns grid portfolio"
+msgstr ""
+
+#: ../framework/options/options-config.php:805
+msgid "Grid 4 columns portfolio filter position"
+msgstr ""
+
+#: ../framework/options/options-config.php:818
+msgid "Classic portfolio 1 column pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:819
+msgid ""
+"Insert in this field the number of entries per page for classic portfolio 1 "
+"columns custom posts. Default is 4."
+msgstr ""
+
+#: ../framework/options/options-config.php:829
+msgid "Classic portfolio 2 columns pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:830
+msgid ""
+"Insert in this field the number of entries per page for classic portfolio 2 "
+"columns custom posts. Default is 6."
+msgstr ""
+
+#: ../framework/options/options-config.php:840
+msgid "Classic portfolio 3 columns pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:841
+msgid ""
+"Insert in this field the number of entries per page for classic portfolio 3 "
+"columns custom posts. Default is 9."
+msgstr ""
+
+#: ../framework/options/options-config.php:850
+msgid "Grid portfolio 3 columns pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:851
+msgid ""
+"Insert in this field the number of entries per page for grid portfolio 3 "
+"columns custom posts. Default is 9."
+msgstr ""
+
+#: ../framework/options/options-config.php:860
+msgid "Classic portfolio 4 columns pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:861
+msgid ""
+"Insert in this field the number of entries per page for classic portfolio 4 "
+"columns custom posts. Default is 12."
+msgstr ""
+
+#: ../framework/options/options-config.php:870
+msgid "Grid portfolio 4 columns pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:871
+msgid ""
+"Insert in this field the number of entries per page for grid portfolio 4 "
+"columns custom posts. Default is 12."
+msgstr ""
+
+#: ../framework/options/options-config.php:880
+msgid "Portfolio 3 columns with sidebar pagination"
+msgstr ""
+
+#: ../framework/options/options-config.php:881
+msgid ""
+"Insert in this field the number of entries per page for portfolio 3 columns "
+"with sidebar. Default is 9."
+msgstr ""
+
+#: ../framework/options/options-config.php:891
+msgid "Related posts"
+msgstr ""
+
+#: ../framework/options/options-config.php:892
+msgid "Enable or disable related posts section on portfolio posts detail."
+msgstr ""
+
+#: ../framework/options/options-config.php:902
+msgid "Coming Soon"
+msgstr ""
+
+#: ../framework/options/options-config.php:912
+msgid "Coming Soon Logo"
+msgstr ""
+
+#: ../framework/options/options-config.php:913
+msgid ""
+"Upload a logo for your coming soon page template, or specify the image "
+"address of your online logo."
+msgstr ""
+
+#: ../framework/options/options-config.php:920
+msgid "Background image"
+msgstr ""
+
+#: ../framework/options/options-config.php:921
+msgid ""
+"Upload a background image(1920x850px recommended) that will be displayed on "
+"your coming soon page."
+msgstr ""
+
+#: ../framework/options/options-config.php:928
+msgid "Timer"
+msgstr ""
+
+#: ../framework/options/options-config.php:929
+msgid ""
+"Set your launch date. Please use only this format: 17 august 2014 12:00:00"
+msgstr ""
+
+#: ../framework/options/options-config.php:936
+msgid "Message"
+msgstr ""
+
+#: ../framework/options/options-config.php:937
+msgid "Insert the content that will be displayed under the logo."
+msgstr ""
+
+#: ../framework/options/options-config.php:943
+msgid "Subscription form"
+msgstr ""
+
+#: ../framework/options/options-config.php:944
+msgid ""
+"Insert the code(or the shortcode) that will generate your subscription form."
+msgstr ""
+
+#: ../framework/options/options-config.php:951
+msgid "Insert the content that will be displayed under the sign up form."
+msgstr ""
+
+#: ../framework/options/options-config.php:961
+msgid "Typography"
+msgstr ""
+
+#: ../framework/options/options-config.php:970
+msgid "Body typography"
+msgstr ""
+
+#: ../framework/options/options-config.php:998
+msgid "Headers typography"
+msgstr ""
+
+#: ../framework/options/options-config.php:1026
+msgid "Blockquote typography"
+msgstr ""
+
+#: ../framework/options/options-config.php:1040
+msgid "Select font family and font type for blockquotes and pullquotes."
+msgstr ""
+
+#: ../framework/options/options-config.php:1053
+msgid "Strong(bold) text typography"
+msgstr ""
+
+#: ../framework/options/options-config.php:1067
+msgid "Select font family and font type for strong(bold text)."
+msgstr ""
+
+#: ../framework/options/options-config.php:1084
+msgid "Colors"
+msgstr ""
+
+#: ../framework/options/options-config.php:1092
+msgid "Body background color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1093
+msgid "Pick a background color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1101
+msgid "Body text color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1102
+msgid "Pick the text color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1110
+msgid "Link color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1111
+msgid ""
+"Pick the link text color and hover state color for different other elements "
+"such as portfolio, news, blog titles or widget lists."
+msgstr ""
+
+#: ../framework/options/options-config.php:1119
+msgid "Headers h1-h6 text color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1120
+msgid "Pick the headers text color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1129
+msgid "Top menu background color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1130
+msgid "Pick the top menu background color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1138
+msgid "Top menu text color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1139
+msgid ""
+"Pick the top menu text color(it won't have any effect if you are not using "
+"uber menu since all menu items are links)."
+msgstr ""
+
+#: ../framework/options/options-config.php:1147
+msgid "Top menu link color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1148
+msgid "Pick the top menu link color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1156
+msgid "Top menu link hover color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1157
+msgid "Pick the top menu link color on hover."
+msgstr ""
+
+#: ../framework/options/options-config.php:1166
+msgid "Top menu left border color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1167
+msgid "Pick the menu item left border color on hover."
+msgstr ""
+
+#: ../framework/options/options-config.php:1177
+msgid "Footer background color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1178
+msgid "Pick the footer background color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1186
+msgid "Footer bottom bar background color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1187
+msgid "Pick the footer bottom bar background color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1195
+msgid "Footer text color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1196
+msgid "Pick the footer text color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1204
+msgid "Footer link color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1205
+msgid "Pick the footer link color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1213
+msgid "Footer link hover color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1214
+msgid "Pick the footer link color on hover."
+msgstr ""
+
+#: ../framework/options/options-config.php:1222
+msgid "Footer h1-h6 color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1223
+msgid "Pick the footer header tags color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1234
+msgid "Sidebar listings border color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1235
+msgid "Pick the sidebar listings border color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1243
+msgid "Sidebar listings link color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1244
+msgid "Pick the sidebar listings link color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1252
+msgid "Sidebar listings link hover color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1253
+msgid "Pick the sidebar listings link color on hover."
+msgstr ""
+
+#: ../framework/options/options-config.php:1261
+msgid "Sidebar listings hover background color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1262
+msgid "Pick the sidebar listings background color on hover."
+msgstr ""
+
+#: ../framework/options/options-config.php:1273
+msgid "Blog link titles text color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1274
+msgid "Pick the headers h1 - h6 text color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1282
+msgid "Portfolio overlay icon color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1283
+msgid ""
+"Pick the portfolio icon color that appears when you hover your mouse over a "
+"portfolio entry."
+msgstr ""
+
+#: ../framework/options/options-config.php:1291
+msgid "Portfolio filter button color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1292
+msgid "Pick the portfolio filter button color for hover / active state."
+msgstr ""
+
+#: ../framework/options/options-config.php:1301
+msgid "News date background color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1302
+msgid "Pick the news  date background color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1311
+msgid "News date text color"
+msgstr ""
+
+#: ../framework/options/options-config.php:1312
+msgid "Pick the news date text color."
+msgstr ""
+
+#: ../framework/options/options-config.php:1324
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../framework/options/options-config.php:1325
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../framework/options/options-config.php:1326
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../framework/options/options-config.php:1330
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../framework/options/options-config.php:1337
+#: ../framework/options/options-config.php:1523
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/options/options-config.php:1352
+msgid "Additional Fields"
+msgstr ""
+
+#: ../framework/options/options-config.php:1353
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: ../framework/options/options-config.php:1358
+msgid "Date Option"
+msgstr ""
+
+#: ../framework/options/options-config.php:1359
+#: ../framework/options/options-config.php:1370
+#: ../framework/options/options-config.php:1385
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: ../framework/options/options-config.php:1360
+#: ../framework/options/options-config.php:1371
+#: ../framework/options/options-config.php:1386
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: ../framework/options/options-config.php:1369
+msgid "Button Set Option"
+msgstr ""
+
+#: ../framework/options/options-config.php:1384
+msgid "Button Set, Multi Select"
+msgstr ""
+
+#: ../framework/options/options-config.php:1401
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: ../framework/options/options-config.php:1407
+#: ../framework/options/options-config.php:1415
+#: ../framework/options/options-config.php:1423
+#: ../framework/options/options-config.php:1437
+#: ../framework/options/options-config.php:1445
+#: ../framework/options/options-config.php:1454
+#: ../framework/options/options-config.php:1463
+#: ../framework/options/options-config.php:1472
+msgid "This is a title."
+msgstr ""
+
+#: ../framework/options/options-config.php:1408
+msgid "This is an info field with the warning style applied and a header."
+msgstr ""
+
+#: ../framework/options/options-config.php:1416
+msgid ""
+"This is an info field with the success style applied, a header and an icon."
+msgstr ""
+
+#: ../framework/options/options-config.php:1424
+msgid ""
+"This is an info field with the critical style applied, a header and an icon."
+msgstr ""
+
+#: ../framework/options/options-config.php:1438
+msgid ""
+"This is an info notice field with the normal style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../framework/options/options-config.php:1446
+msgid ""
+"This is an info notice field with the info style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../framework/options/options-config.php:1455
+msgid ""
+"This is an info notice field with the warning style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../framework/options/options-config.php:1464
+msgid ""
+"This is an info notice field with the success style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../framework/options/options-config.php:1473
+msgid ""
+"This is an notice field with the critical style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../framework/options/options-config.php:1478
+msgid "Custom Field Callback"
+msgstr ""
+
+#: ../framework/options/options-config.php:1479
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: ../framework/options/options-config.php:1480
+msgid ""
+"This is created with a callback function, so anything goes in this field. "
+"Make sure to define the function though."
+msgstr ""
+
+#: ../framework/options/options-config.php:1487
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:149
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:158
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:159
+msgid "Import / Export"
+msgstr ""
+
+#: ../framework/options/options-config.php:1488
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../framework/options/options-config.php:1534
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../framework/options/options-config.php:1535
+#: ../framework/options/options-config.php:1541
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/options/options-config.php:1540
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../framework/options/options-config.php:1545
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/options/options-config.php:1565
+#: ../framework/options/options-config.php:1566
+#: ../framework/ReduxCore/framework.php:204
+#: ../framework/ReduxCore/framework.php:207
+#: ../framework/ReduxCore/framework.php:1288
+msgid "Options"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:201
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:201
+msgid "Redux Framework"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:466
+msgid "Dismiss"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1232
+#: ../framework/ReduxCore/framework.php:1233
+#: ../framework/ReduxCore/framework.php:2783
+#: ../framework/ReduxCore/framework.php:2842
+msgid "System Info"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1688
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:402
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1689
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:403
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1690
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1691
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:404
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1692
+msgid "Please Wait"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1827
+msgid "Hints"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1828
+msgid "<p>"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1936
+msgid "Default"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2640
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2702
+msgid "Expand"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2704
+#: ../framework/ReduxCore/framework.php:2892
+msgid "Save Changes"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2706
+#: ../framework/ReduxCore/framework.php:2894
+msgid "Reset Section"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2708
+#: ../framework/ReduxCore/framework.php:2896
+msgid "Reset All"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2711
+#: ../framework/ReduxCore/framework.php:2899
+msgid "Working..."
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2722
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2728
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2735
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2736
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2737
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:435
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:436
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:437
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/debug.php:41
+#: ../framework/ReduxCore/inc/debug.php:69
+#: ../framework/ReduxCore/inc/debug.php:76
+#: ../framework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:111
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:112
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:117
+msgid "Allow tracking"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:122
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:132
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:133
+msgid "Getting Started"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:133
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:133
+msgid "our documentation"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:134
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:134
+#, php-format
+msgid ""
+"Did you know Redux has extensions, which enhances its features?  Visit our "
+"%1$s to learn more!"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:134
+msgid "extensions directory"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:135
+msgid "Like Redux?"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:135
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:135
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:135
+msgid "donation"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:136
+msgid "Newsletter"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:136
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:137
+msgid "Email address"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:137
+msgid "Subscribe"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:146
+msgid "Close"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:118
+#: ../framework/ReduxCore/inc/fields/color/field_color.php:72
+#: ../framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: ../framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:85
+msgid "Transparent"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:135
+msgid "Background Repeat"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:151
+msgid "Background Clip"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:167
+msgid "Background Origin"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:182
+msgid "Background Size"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:197
+msgid "Background Attachment"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:217
+msgid "Background Position"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:272
+#: ../framework/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:306
+#: ../framework/ReduxCore/inc/fields/media/field_media.php:155
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:121
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Upload"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:312
+#: ../framework/ReduxCore/inc/fields/media/field_media.php:161
+#: ../framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: ../framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: ../framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:82
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:128
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:192
+msgid "Remove"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:112
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:151
+msgid "All"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:125
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:175
+msgid "Top"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:132
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:182
+msgid "Right"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:139
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:189
+msgid "Bottom"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:146
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:196
+msgid "Left"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:121
+msgid "Width"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:137
+msgid "height"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:149
+#: ../framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:150
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:206
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:207
+msgid "Units"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/group/field_group.php:125
+msgid "Delete"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:77
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:80
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:81
+msgid "Import from file"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:81
+msgid "Import from URL"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:93
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:99
+msgid "Import"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:99
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:102
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:105
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Copy"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Download"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Copy Link"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Regular"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Hover"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Visited"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/link_color/field_link_color.php:103
+msgid "Active"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/select/field_select.php:76
+#: ../framework/ReduxCore/inc/fields/select_image/field_select_image.php:58
+msgid "Select an item"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/select/field_select.php:117
+#: ../framework/ReduxCore/inc/fields/select_image/field_select_image.php:133
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:197
+msgid "Title"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:137
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:201
+msgid "URL"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:168
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:231
+msgid "Delete Slide"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:234
+msgid "Add Slide"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:163
+msgid "Font family"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:190
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:241
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:261
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:265
+msgid "Font style"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:265
+msgid "Style"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:294
+msgid "Font subsets"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:295
+msgid "Subsets"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:295
+msgid "Font script"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:312
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:313
+msgid "Text Align"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:336
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:337
+msgid "Text Transform"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:366
+msgid "Size"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:374
+msgid "Height"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:382
+msgid "Word Spacing"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:391
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:408
+msgid "Font color"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:750
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+#: ../framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/email/validation_email.php:15
+#: ../framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../includes/archive_title.php:3
+msgid "<i class=\"fa fa-file-text-o\"></i> Tag: "
+msgstr ""
+
+#: ../includes/archive_title.php:7 ../includes/archive_title.php:12
+#: ../includes/archive_title.php:20
+msgid "<i class=\"fa fa-file-text-o\"></i> Posts in: "
+msgstr ""
+
+#: ../includes/archive_title.php:27
+msgid "<i class=\"fa fa-file-text-o\"></i> Posts by: "
+msgstr ""
+
+#: ../includes/archive_title.php:33
+msgid "<i class=\"fa fa-file-text-o\"></i> Search results for: "
+msgstr ""
+
+#: ../includes/archive_title.php:37
+msgid "<i class=\"fa fa-file-text-o\"></i> Posts under: "
+msgstr ""
+
+#: ../includes/author_biography.php:9
+msgid "About the author"
+msgstr ""
+
+#: ../includes/menu_section.php:35 ../includes/menu_section.php:76
+msgid "Open Menu"
+msgstr ""
+
+#: ../includes/port_related_posts.php:31
+msgid "Related works"
+msgstr ""
+
+#: ../includes/socialmedia.php:2
+msgid "Spread the word!"
+msgstr ""
+
+#: ../includes/blog/audio.php:10 ../includes/blog/audio.php:34
+#: ../includes/blog/quote.php:15 ../includes/blog/quote.php:41
+#: ../includes/blog/standard.php:19 ../includes/blog/standard.php:65
+#: ../includes/blog/video.php:21 ../includes/blog/video.php:53
+#: ../includes/blog/columns/standard.php:21
+#: ../includes/blog/portrait/standard.php:21
+#: ../includes/blog/portrait/standard.php:72
+msgid "1 comment"
+msgstr ""
+
+#: ../includes/blog/audio.php:40 ../includes/blog/standard.php:70
+#: ../includes/blog/video.php:58 ../includes/blog/columns/standard.php:69
+#: ../includes/blog/portrait/standard.php:76
+msgid "continue reading"
+msgstr ""
+
+#: ../includes/footer/1columns.php:10 ../includes/footer/2columns.php:10
+#: ../includes/footer/3columns.php:10 ../includes/footer/4columns.php:10
+msgid "footer sidebar 1"
+msgstr ""
+
+#: ../includes/footer/1columns.php:12 ../includes/footer/2columns.php:12
+#: ../includes/footer/3columns.php:12 ../includes/footer/4columns.php:12
+msgid ""
+"Currently there are no widgets in Footer Sidebar 1 area. To insert your "
+"content here, please drag and drop widgets to this area."
+msgstr ""
+
+#: ../includes/footer/2columns.php:22 ../includes/footer/3columns.php:22
+#: ../includes/footer/4columns.php:22
+msgid "footer sidebar 2"
+msgstr ""
+
+#: ../includes/footer/2columns.php:24 ../includes/footer/3columns.php:24
+#: ../includes/footer/4columns.php:24
+msgid ""
+"Currently there are no widgets in Footer Sidebar 2 area. To insert your "
+"content here, please drag and drop widgets to this area."
+msgstr ""
+
+#: ../includes/footer/3columns.php:34 ../includes/footer/4columns.php:34
+msgid "footer sidebar 3"
+msgstr ""
+
+#: ../includes/footer/3columns.php:36 ../includes/footer/4columns.php:36
+msgid ""
+"Currently there are no widgets in Footer Sidebar 3 area. To insert your "
+"content here, please drag and drop widgets to this area."
+msgstr ""
+
+#: ../includes/footer/4columns.php:47
+msgid "footer sidebar 4"
+msgstr ""
+
+#: ../includes/footer/4columns.php:49
+msgid ""
+"Currently there are no widgets in Footer Sidebar 4 area. To insert your "
+"content here, please drag and drop widgets to this area."
+msgstr ""
+
+#: ../includes/footer/comingsoon.php:10
+msgid "Coming Soon Footer sidebar"
+msgstr ""
+
+#: ../includes/footer/comingsoon.php:12
+msgid ""
+"Currently there are no widgets in Coming Soon Footer Sidebar area. To insert "
+"your content here, please drag and drop widgets to this area."
+msgstr ""

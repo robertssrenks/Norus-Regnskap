@@ -1,0 +1,89 @@
+
+/* ================ THEME OPTIONS CSS  ================ */
+
+.inner-content {
+	margin-right:61px;
+}
+@media (min-width: 768px) and (max-width: 979px) {
+	.inner-content {
+		margin-right:41px;
+	}
+}
+
+
+.fd1 {
+	background:#f82e3c;	
+}
+.fd2 {
+	background:#34d693;
+}
+.fd3 {
+	background:#00aced;
+}
+
+
+.alt-menu > .menu-item {
+	width:20%;
+}
+
+
+
+/* ================ portfolio filters  ================ */
+
+
+.pfw-2col .portfolio-filter {
+	text-align:center;	
+}
+
+
+.pfw-3col .portfolio-filter {
+	text-align:center;	
+}
+
+
+.pfw-4col .portfolio-filter {
+	text-align:center;	
+}
+
+
+.pfw-3grid .portfolio-filter {
+	text-align:center;	
+}
+
+
+.pfw-4grid .portfolio-filter {
+	text-align:center;	
+}
+
+
+
+/* ================ skinning custom styling  ================ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ================ custom css that will overwrite any other css  ================ */
+
+

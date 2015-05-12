@@ -1,0 +1,204 @@
+/* wysija newsletter custom styles */
+
+.widget .formErrorContent {
+	background:#f8f8f8 !important;	
+}
+.widget .wysija-input {
+	width:100%;
+}
+.fbox .wysija-input {
+	width:90%;	
+}
+.widget .wysija-submit, .fbox .wysija-submit {
+	height:32px;
+	position:absolute;
+	padding-left:16px;
+	padding-right:16px;
+	top:0;
+	right:0;	
+	margin:0 !important;
+}
+.widget .widget_wysija, .fbox .widget_wysija {
+	position:relative;
+}
+.widget .formError, .fbox .formError { 
+	position:absolute !important;
+	top:45px !important;
+	left:0 !important;
+	display:block;
+	z-index:5000;
+	cursor:pointer;
+}
+.widget .widget_wysija_cont li, .fbox .widget_wysija_cont li {
+	margin:0;
+	padding:6px 14px 6px 14px;
+}
+
+.widget_wysija_cont .inputContainer{position:relative;float:left}
+
+.widget_wysija_cont .ajaxSubmit{padding:20px;background:#55ea55;border:1px solid #999;display:none;}
+
+.formError .formErrorContent {
+	background:none repeat scroll 0 0 #f8f8f8;
+	border:0 none;
+	font-family:'Lato', Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:8px 16px 8px 16px;
+	position:relative;
+	width:auto !important;
+	z-index:5001;
+	color:#dd0d1c;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;		
+}
+.fbox .formError .formErrorContent {
+	background:none repeat scroll 0 0 #2b2b2b;
+}
+
+
+.widget_wysija_cont .formError .formErrorArrowBottom{margin:0 0 0 12px;top:2px}
+.widget_wysija_cont .formError .formErrorArrow div{
+	border-left:0;
+	border-right:0;	
+	font-size:0px;
+	line-height:0;	
+	height:1px;
+	background:#f8f8f8 !important;
+	margin:0 auto;
+	display:block;
+}
+.widget_wysija_cont .greenPopup .formErrorArrow div{background:#f8f8f8 !important}
+.widget_wysija_cont .blackPopup .formErrorArrow div{background:#f8f8f8 !important;color:#dd0d1c}
+.widget_wysija_cont .formError .formErrorArrow .line10{width:15px;border:0 none}
+.widget_wysija_cont .formError .formErrorArrow .line9{width:13px;border:0 none}
+.widget_wysija_cont .formError .formErrorArrow .line8{width:11px}
+.widget_wysija_cont .formError .formErrorArrow .line7{width:9px}
+.widget_wysija_cont .formError .formErrorArrow .line6{width:7px}
+.widget_wysija_cont .formError .formErrorArrow .line5{width:5px}
+.widget_wysija_cont .formError .formErrorArrow .line4{width:3px}
+.widget_wysija_cont .formError .formErrorArrow .line3{width:1px; border-left:0 none; border-right:0 none; border-bottom:0 none; }
+.widget_wysija_cont .formError .formErrorArrow .line2{ display:none; }
+.widget_wysija_cont .formError .formErrorArrow .line1{ display:none; }
+
+
+.greenPopup .formErrorContent{
+	background:none repeat scroll 0 0 #f8f8f8;
+	color:#6d6d6d;
+}
+.fbox .greenPopup .formErrorContent{
+	background:none repeat scroll 0 0 #2b2b2b;
+	color:#a8a8a8;
+}
+.widget_wysija_cont .updated,
+.widget_wysija_cont .error,
+.widget_wysija_cont .xdetailed-errors{
+	margin:0;
+	color:#dd0d1c;
+	font-family:sans-serif;
+	font-size:12px;
+	line-height:20px;
+}
+.widget_wysija_cont .error,.widget_wysija_cont .login #login_error{background-color:#f8f8f8 !important; border-color:none; }
+.widget_wysija_cont .updated,.widget_wysija_cont .error,.widget_wysija_cont .xdetailed-errors{
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	-khtml-border-radius:3px;
+	border-style:solid;
+	border-width:1px;
+	margin:8px 15px 8px 15px;
+	padding:0 10px 0 10px;
+	color:#18c37b;
+}
+.widget_wysija_cont.updated,.widget_wysija_cont .login .message {
+	background-color:#f8f8f8 !important;
+	border-color:none;
+	display:inline-block;
+}
+.widget_wysija_cont .xdetailed-updated {
+	background-color:#f8f8f8 !important;
+	border-color:0 none;
+	color:#18c37b;
+	font-weight:normal;
+	display:none;
+}
+.widget_wysija_cont .xdetailed-errors {
+	background-color:#f8f8f8 !important;
+	border-color:none;
+	color:#dd0d1c;
+	font-weight:700;
+	display:none;
+}
+
+
+.fbox .widget_wysija_cont.updated, .fbox .widget_wysija_cont .login .message, .fbox .widget_wysija_cont .xdetailed-updated, .fbox .widget_wysija_cont .xdetailed-errors {
+	background-color:#2b2b2b !important;
+}
+
+.widget_wysija_cont .instruct {
+	font-style:italic;
+	font-weight:700;
+	padding:8px 0;
+	font-size:11px;
+}
+.widget_wysija_cont .error ul, .widget_wysija_cont .xdetailed-errors ul {
+	margin:0 0 3px 0;
+}
+.widget_wysija_cont .needInfo{padding-left:15px;text-decoration:underline}
+.widget_wysija_cont .wysija-submit{display:block;margin-top:20px}
+.widget_wysija_cont input.defaultlabels{color:#888}
+.widget_wysija_cont input.defaultlabels:focus{color:#373737;}
+.widget_wysija_cont .abs-req{display:none}
+.widget_wysija_cont p label{display:block}
+.widget_wysija_cont .iframe-hidden{display:none}
+.widget_wysija_cont .updated,.widget_wysija_cont .error,.widget_wysija_cont .xdetailed-errors{
+	background-color:#f8f8f8 !important;
+	border:0 none;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;		
+	font-weight:normal;
+	margin:4px auto 4px auto;
+	padding:4px;
+}
+.widget_wysija_cont .error, .widget_wysija_cont .xdetailed-errors{
+	background-color:#f8f8f8 !important;
+	color:#dd0d1c;
+}
+.widget_wysija_cont .error, .widget_wysija_cont .xdetailed-errors{
+	background-color:#f8f8f8 !important;
+	color:#dd0d1c;
+	border-color:none;
+}
+
+.fbox .widget_wysija_cont .error, .fbox .widget_wysija_cont .xdetailed-errors{
+	background-color:#2b2b2b !important;
+}
+.fbox .widget_wysija_cont .error, .fbox .widget_wysija_cont .xdetailed-errors{
+	background-color:#2b2b2b !important;
+}
+
+.widget_wysija_cont .allmsgs ul{padding:0}
+.widget_wysija_cont .allmsgs li{list-style-type:none}
+.widget_wysija_cont .updated, .widget_wysija_cont .login .message {
+	background-color:#f8f8f8 !important;
+	border-color:none;
+}
+.fbox .widget_wysija_cont .updated, .fbox .widget_wysija_cont .login .message {
+	background-color:#2b2b2b !important;
+	border-color:none;
+}
+.widget_wysija_cont .updated ul{margin:0}
+.widget_wysija_cont .showerrors{ 
+	color:#dd0d1c; 
+	text-decoration:underline; 
+}
+#wysija-subscriptions input.checkboxx{margin-left:0px;margin-right:10px}
+#wysija-subscriptions th label{margin-right:10px}
+#wysija-box-after-comment{width:25px}
+#wysija-box-after-register{margin:2px 6px 16px 0;padding:3px}
+.wysija-unsubscribed-on{color:#bbb}
+#profile-details-section-wysija{float:right;width:48%}
+.widget_wysija .wysija-required{font-weight:bold}
+.widget_wysija .wysija-checkbox-label{margin:0 0 10px 0}

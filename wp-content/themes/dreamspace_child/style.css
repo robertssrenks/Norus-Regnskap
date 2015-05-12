@@ -1,0 +1,131 @@
+/*
+	Theme Name: Dreamspace Child
+	Description: A Child Theme of Dreamspace
+	Template: dreamspace
+	Author: Starshade
+	Author URI: http://goldenworks.eu
+	License: GNU General Public License version 2.0
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html		
+*/
+
+@import url(../dreamspace/style.css);
+
+.revslider-wrapper {
+	margin-bottom: 0px;
+}
+
+.contentbar {
+	margin-top: 0px;
+}
+
+body strong {
+	font-weight: bold;
+}
+
+.wpcf7-form-control-wrap {
+	width: 100%;
+}
+
+
+/* WYSIWIG */
+	
+	.alignleft, 
+	img.alignleft {
+		margin-right: 1.5em;
+		display: inline;
+		float: left;
+	}
+	.alignright, 
+	img.alignright {
+		margin-left: 1.5em;
+		display: inline;
+		float: right;
+	}
+	.aligncenter, 
+	img.aligncenter {
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+		clear: both;
+	}
+	
+	.wp-caption {
+		margin-bottom: 25px;
+		padding:7px;
+		text-align: center;
+		position: relative;
+		overflow: hidden;
+		border-width: 1px;
+		border-style: solid;
+		max-width: 100% !important;
+		height: auto !important;
+		background-color: #fff;
+		border-color: #eeeeee;
+	}
+
+	.dark-skin .wp-caption {
+		background-color: #3b3b3b;
+		border-color: #444444;
+	}
+
+	.wp-caption img {
+		border: 0 none;
+		padding: 0;
+		margin: 0;
+	}
+	.wp-caption p.wp-caption-text {
+		width: 100%;
+		max-width: 100%;
+		height: auto !important;
+		text-align: center;
+		padding:5px;
+		margin: 0;
+		position: relative;
+		color: #fff;
+		background-color: #333333;
+	}
+
+	.dark-skin .wp-caption p.wp-caption-text {
+		color: #eeeeee;
+		background-color: #3b3b3b;
+	}
+
+	.wp-smiley {
+		margin: 0 !important;
+		max-height: 1em;
+	}
+	blockquote.left {
+		margin-right: 20px;
+		text-align: right;
+		margin-left: 0;
+		width: 33%;
+		float: left;
+	}
+	blockquote.right {
+		margin-left: 20px;
+		text-align: left;
+		margin-right: 0;
+		width: 33%;
+		float: right;
+	}
+	
+	.search-form {
+		display: none;
+	}
+	
+	body .two_third {
+		margin-right: 10px;
+		width: 65%;
+	}
+	
+	body #wpgmza_map {
+		width: 380px;
+	}
+	
+	.gwtop-wrapper h1 {
+		opacity:0.7;
+		filter:alpha(opacity=70); /* For IE8 and earlier */
+	}
+
+
+

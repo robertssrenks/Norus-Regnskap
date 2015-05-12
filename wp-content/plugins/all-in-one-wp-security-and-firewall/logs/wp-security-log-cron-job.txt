@@ -2048,3 +2048,12 @@
 [05/12/2015 6:16 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
 [05/12/2015 7:14 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
 [05/12/2015 7:22 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
+[05/12/2015 11:40 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
+[05/12/2015 11:40 AM] - SUCCESS : Cronjob_Handler - Daily cron handler got fired.
+[05/12/2015 11:40 AM] - SUCCESS : DB Cleanup - checking if a cleanup needs to be done now...
+[05/12/2015 11:49 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
+[05/12/2015 11:49 AM] - SUCCESS : Cronjob_Handler - Daily cron handler got fired.
+[05/12/2015 11:49 AM] - SUCCESS : DB Cleanup - checking if a cleanup needs to be done now...
+[05/12/2015 11:51 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
+[05/12/2015 11:51 AM] - SUCCESS : Cronjob_Handler - Daily cron handler got fired.
+[05/12/2015 11:51 AM] - SUCCESS : DB Cleanup - checking if a cleanup needs to be done now...

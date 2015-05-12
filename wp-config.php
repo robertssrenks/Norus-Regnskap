@@ -1,11 +1,10 @@
 <?php
 
 # Database Configuration
-define( 'DB_NAME', 'wp_test5kebbeitno' );
-define( 'DB_USER', 'test5kebbeitno1111' );
-define( 'DB_PASSWORD', '2o5xiRgfSUxFYZSFZKJY' );
-define( 'DB_HOST', '127.0.0.1' );
-define( 'DB_HOST_SLAVE', '127.0.0.1' );
+define( 'DB_NAME', 'norus-regnskap' );
+define( 'DB_USER', 'root' );
+define( 'DB_PASSWORD', '' );
+define( 'DB_HOST', 'localhost' );
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', 'utf8_unicode_ci');
 $table_prefix = 'xcvo_';
